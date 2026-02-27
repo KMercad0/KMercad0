@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Karl%20Mercado&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:c2410c,100:f97316&height=200&section=header&text=Karl%20Mercado&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=43A8D0&center=true&vCenter=true&random=false&width=600&lines=Years+of+staring+at+screens...;...+a+CS+degree...;=+I+can+figure+it+out.;Full-Stack+%7C+React+%7C+Node.js+%7C+AI+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=f97316&center=true&vCenter=true&random=false&width=600&lines=Developer+%7C+Gamer+%7C+Dumbass;Full-Stack+%7C+React+%7C+Node.js+%7C+AI+Tools" alt="Typing SVG" />
 </a>
 
 </div>
@@ -61,9 +61,9 @@ Hey, I'm Karl — a **UPLB Computer Science graduate** from the Philippines who 
 **Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 **DevOps & Tools**
 
@@ -77,21 +77,35 @@ Hey, I'm Karl — a **UPLB Computer Science graduate** from the Philippines who 
 ![Anthropic](https://img.shields.io/badge/Anthropic_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**🧰 Tools & Others**
+
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 ---
 
 ## 📚 Currently Learning
 
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Quest-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB University](https://img.shields.io/badge/MongoDB_University-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman_API_Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks_GenAI-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 🌐 Socials
 
-<a href="https://linkedin.com/in/karl-mercado">
+<a href="https://www.linkedin.com/in/kmercad0">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:komercado31@gmail.com">
@@ -121,5 +135,5 @@ Hey, I'm Karl — a **UPLB Computer Science graduate** from the Philippines who 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:c2410c,100:1a0533&height=120&section=footer" />
 </div>
